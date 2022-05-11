@@ -1,0 +1,2 @@
+scoreboard objectives add defensePoints dummy
+scoreboard objectives add armorToughness dummy
