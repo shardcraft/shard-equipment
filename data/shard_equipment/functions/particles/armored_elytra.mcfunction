@@ -1,1 +1,0 @@
-execute at @s run particle minecraft:electric_spark ~ ~.1 ~ .5 .2 .5 .1 2
