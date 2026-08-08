@@ -37,19 +37,12 @@ give @s minecraft:golden_hoe[custom_model_data={floats:[6120002]}] 1
 give @s minecraft:golden_pickaxe[custom_model_data={floats:[6120003]}] 1
 give @s minecraft:golden_shovel[custom_model_data={floats:[6120004]}] 1
 
-# --- Magic Scrolls (flower_banner_pattern = current base) ---
-give @s minecraft:flower_banner_pattern[custom_model_data={floats:[6120028]}] 1
-give @s minecraft:flower_banner_pattern[custom_model_data={floats:[6120029]}] 1
-give @s minecraft:flower_banner_pattern[custom_model_data={floats:[6120030]}] 1
-give @s minecraft:flower_banner_pattern[custom_model_data={floats:[6120031]}] 1
-give @s minecraft:flower_banner_pattern[custom_model_data={floats:[6120032]}] 1
-
-# --- Magic Scrolls (legacy paper base) ---
 give @s minecraft:paper[custom_model_data={floats:[6120028]}] 1
-give @s minecraft:paper[custom_model_data={floats:[6120029]}] 1
-give @s minecraft:paper[custom_model_data={floats:[6120030]}] 1
-give @s minecraft:paper[custom_model_data={floats:[6120031]}] 1
-give @s minecraft:paper[custom_model_data={floats:[6120032]}] 1
+give @s minecraft:paper[custom_model_data={floats:[6120033]}] 1
+give @s minecraft:paper[custom_model_data={floats:[6120034]}] 1
+give @s minecraft:paper[custom_model_data={floats:[6120035]}] 1
+give @s minecraft:paper[custom_model_data={floats:[6120036]}] 1
+give @s minecraft:paper[custom_model_data={floats:[6120037]}] 1
 
 # --- Tome of Essentials (current book base + legacy enchanted_book) ---
 give @s minecraft:book[custom_model_data={floats:[6120033]}] 1
